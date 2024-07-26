@@ -1,0 +1,10 @@
+{
+  "name" : "My test mod",
+  "description" : "My test mod that add a lot of useless stuff into the game",
+  "version" : "1.00",
+  "modType" : "Heroes",
+  "author": "smanolloff",
+  "contact" : "http://www.contact.example.com",
+  "heroes" : ["heroes.json"]
+}
+
