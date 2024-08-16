@@ -1,10 +1,10 @@
 {
-  "name" : "My test mod",
-  "description" : "My test mod that add a lot of useless stuff into the game",
+  "name" : "ML mod",
+  "description" : "Adds 4096 hero types for usage in ML training maps",
   "version" : "1.00",
   "modType" : "Heroes",
   "author": "smanolloff",
-  "contact" : "http://www.contact.example.com",
+  "contact" : "https://github.com/smanolloff/vcmi-gym",
   "heroes" : ["heroes.json"]
 }
 
